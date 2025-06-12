@@ -1,0 +1,3 @@
+pip install boto3 streamlit streamlit-ace -Uq ai21[SM]
+
+streamlit run main.py
